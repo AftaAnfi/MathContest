@@ -1,0 +1,12 @@
+C:\Users\aftanom\Documents\GitHubRepos\MathContest\MathContest\MathContest\bin\Debug\MathContest.exe.config
+C:\Users\aftanom\Documents\GitHubRepos\MathContest\MathContest\MathContest\bin\Debug\MathContest.exe
+C:\Users\aftanom\Documents\GitHubRepos\MathContest\MathContest\MathContest\bin\Debug\MathContest.pdb
+C:\Users\aftanom\Documents\GitHubRepos\MathContest\MathContest\MathContest\bin\Debug\MathContest.xml
+C:\Users\aftanom\Documents\GitHubRepos\MathContest\MathContest\MathContest\obj\Debug\MathContest.vbprojAssemblyReference.cache
+C:\Users\aftanom\Documents\GitHubRepos\MathContest\MathContest\MathContest\obj\Debug\MathContest.MathContestForm.resources
+C:\Users\aftanom\Documents\GitHubRepos\MathContest\MathContest\MathContest\obj\Debug\MathContest.Resources.resources
+C:\Users\aftanom\Documents\GitHubRepos\MathContest\MathContest\MathContest\obj\Debug\MathContest.vbproj.GenerateResource.cache
+C:\Users\aftanom\Documents\GitHubRepos\MathContest\MathContest\MathContest\obj\Debug\MathContest.vbproj.CoreCompileInputs.cache
+C:\Users\aftanom\Documents\GitHubRepos\MathContest\MathContest\MathContest\obj\Debug\MathContest.exe
+C:\Users\aftanom\Documents\GitHubRepos\MathContest\MathContest\MathContest\obj\Debug\MathContest.xml
+C:\Users\aftanom\Documents\GitHubRepos\MathContest\MathContest\MathContest\obj\Debug\MathContest.pdb
